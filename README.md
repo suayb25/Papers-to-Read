@@ -6,3 +6,4 @@ Papers about Deep Learning, Computer Vision, Machine Learning, NLP, Weight Initi
 ## Cross-Entropy: 
   - https://deepnotes.io/softmax-crossentropy
   - https://cs231n.github.io/neural-networks-case-study/#grad
+  - https://peterroelants.github.io/posts/cross-entropy-softmax/
