@@ -1,0 +1,126 @@
+{
+    "nodes": [
+      {
+        "id": "seyahatguncem",
+        "height": 50,
+        "fill": {
+          "src": "https://awoiaf.westeros.org/images/thumb/d/d5/House_Lannister.svg/500px-House_Lannister.svg.png"
+        }
+      },
+      {
+        "id": "selmaozkan",
+        "height": 50,
+        "fill": {
+          "src": "https://awoiaf.westeros.org/images/thumb/6/61/House_Tully.svg/500px-House_Tully.svg.png"
+        }
+      },
+      {
+        "id": "dilekozqan",
+        "height": 50,
+        "fill": {
+          "src": "https://awoiaf.westeros.org/images/thumb/2/2d/House_Baratheon.svg/500px-House_Baratheon.svg.png"
+        }
+      },
+      {
+        "id": "sizinnazar",
+        "height": 50,
+        "fill": {
+          "src": "https://awoiaf.westeros.org/images/thumb/7/7e/House_Stark.svg/500px-House_Stark.svg.png"
+        }
+      },
+      {
+        "id": "gunayontheway",
+        "height": 50,
+        "fill": {
+          "src": "https://awoiaf.westeros.org/images/thumb/9/9e/House_Darry.svg/500px-House_Darry.svg.png"
+        }
+      },
+      {
+        "id": "mini_mutlu67",
+        "height": 50,
+        "fill": {
+          "src": "https://awoiaf.westeros.org/images/thumb/5/5b/House_Greyjoy.svg/500px-House_Greyjoy.svg.png"
+        }
+      },
+      {
+        "id": "yl.traveller",
+        "height": 50,
+        "fill": {
+          "src": "https://awoiaf.westeros.org/images/thumb/0/0c/House_Bolton.svg/500px-House_Bolton.svg.png"
+        }
+      },
+      {
+        "id": "Brotherhood without Banners",
+        "height": 50,
+        "fill": {
+          "src": "https://awoiaf.westeros.org/images/thumb/1/17/BWB_Sir_Heartsalot.jpg/700px-BWB_Sir_Heartsalot.jpg"
+        }
+      },
+      {
+        "id": "Brave Companions",
+        "height": 50,
+        "fill": {
+          "src": "https://awoiaf.westeros.org/images/thumb/2/24/Brave_Companions.svg/400px-Brave_Companions.svg.png"
+        }
+      },
+      {
+        "id": "Frey",
+        "height": 50,
+        "fill": {
+          "src": "https://awoiaf.westeros.org/images/thumb/d/da/House_Frey.svg/500px-House_Frey.svg.png"
+        }
+      },
+      {
+        "id": "Mallister",
+        "height": 50,
+        "fill": {
+          "src": "https://awoiaf.westeros.org/images/thumb/7/75/House_Mallister.svg/500px-House_Mallister.svg.png"
+        }
+      },
+      {
+        "id": "Free folk",
+        "height": 50,
+        "fill": {
+          "src": "https://awoiaf.westeros.org/images/9/94/Tomasz_Jedruszek_Wildling_Rabble.jpg"
+        }
+      },
+      {
+        "id": "Night's Watch",
+        "height": 50,
+        "fill": {
+          "src": "https://awoiaf.westeros.org/images/thumb/f/f3/Night%27s_Watch.svg/500px-Night%27s_Watch.svg.png"
+        }
+      },
+      {
+        "id": "Tyrell",
+        "height": 50,
+        "fill": {
+          "src": "https://awoiaf.westeros.org/images/thumb/3/31/House_Tyrell.svg/500px-House_Tyrell.svg.png"
+        }
+      },
+      {
+        "id": "Bracken",
+        "height": 50,
+        "fill": {
+          "src": "https://awoiaf.westeros.org/images/thumb/e/e5/House_Bracken.svg/500px-House_Bracken.svg.png"
+        }
+      },
+      {
+        "id": "Blackwood",
+        "height": 50,
+        "fill": {
+          "src": "https://awoiaf.westeros.org/images/thumb/e/e1/House_Blackwood.svg/500px-House_Blackwood.svg.png"
+        }
+      }
+    ],
+    "edges": [
+      { "from": "seyahatguncem", "to": "selmaozkan" },
+      { "from": "seyahatguncem", "to": "dilekozqan" },
+      { "from": "seyahatguncem", "to": "sizinnazar" },
+      { "from": "seyahatguncem", "to": "gunayontheway" },
+      { "from": "dilekozqan", "to": "sizinnazar" },
+      { "from": "sizinnazar", "to": "gunayontheway" },
+      { "from": "seyahatguncem", "to": "mini_mutlu67" },
+      { "from": "seyahatguncem", "to": "yl.traveller" }
+    ]
+  }
