@@ -2,6 +2,28 @@
     "nodes": [
       {
         "id": "seyahatguncem",
+		"labels":{
+			"label_1":{
+				"name":"sun",
+				"count":1
+			},
+			"label_2":{
+				"name":"ocean",
+				"count":1
+			},
+			"label_3":{
+				"name":"snow",
+				"count":1
+			},
+			"label_4":{
+				"name":"sky",
+				"count":1
+			},
+			"label_5":{
+				"name":"beach",
+				"count":1
+			}
+		},
         "height": 50,
         "fill": {
           "src": "https://awoiaf.westeros.org/images/thumb/d/d5/House_Lannister.svg/500px-House_Lannister.svg.png"
@@ -9,6 +31,28 @@
       },
       {
         "id": "selmaozkan",
+		"labels":{
+			"label_1":{
+				"name":"",
+				"count":1
+			},
+			"label_2":{
+				"name":"",
+				"count":1
+			},
+			"label_3":{
+				"name":"",
+				"count":1
+			},
+			"label_4":{
+				"name":"",
+				"count":1
+			},
+			"label_5":{
+				"name":"",
+				"count":1
+			}
+		},
         "height": 50,
         "fill": {
           "src": "https://awoiaf.westeros.org/images/thumb/6/61/House_Tully.svg/500px-House_Tully.svg.png"
@@ -16,6 +60,28 @@
       },
       {
         "id": "dilekozqan",
+		"labels":{
+			"label_1":{
+				"name":"",
+				"count":1
+			},
+			"label_2":{
+				"name":"",
+				"count":1
+			},
+			"label_3":{
+				"name":"",
+				"count":1
+			},
+			"label_4":{
+				"name":"",
+				"count":1
+			},
+			"label_5":{
+				"name":"",
+				"count":1
+			}
+		},
         "height": 50,
         "fill": {
           "src": "https://awoiaf.westeros.org/images/thumb/2/2d/House_Baratheon.svg/500px-House_Baratheon.svg.png"
@@ -23,6 +89,28 @@
       },
       {
         "id": "sizinnazar",
+		"labels":{
+			"label_1":{
+				"name":"",
+				"count":1
+			},
+			"label_2":{
+				"name":"",
+				"count":1
+			},
+			"label_3":{
+				"name":"",
+				"count":1
+			},
+			"label_4":{
+				"name":"",
+				"count":1
+			},
+			"label_5":{
+				"name":"",
+				"count":1
+			}
+		},
         "height": 50,
         "fill": {
           "src": "https://awoiaf.westeros.org/images/thumb/7/7e/House_Stark.svg/500px-House_Stark.svg.png"
@@ -30,6 +118,28 @@
       },
       {
         "id": "gunayontheway",
+		"labels":{
+			"label_1":{
+				"name":"",
+				"count":1
+			},
+			"label_2":{
+				"name":"",
+				"count":1
+			},
+			"label_3":{
+				"name":"",
+				"count":1
+			},
+			"label_4":{
+				"name":"",
+				"count":1
+			},
+			"label_5":{
+				"name":"",
+				"count":1
+			}
+		},
         "height": 50,
         "fill": {
           "src": "https://awoiaf.westeros.org/images/thumb/9/9e/House_Darry.svg/500px-House_Darry.svg.png"
@@ -37,6 +147,28 @@
       },
       {
         "id": "mini_mutlu67",
+		"labels":{
+			"label_1":{
+				"name":"",
+				"count":1
+			},
+			"label_2":{
+				"name":"",
+				"count":1
+			},
+			"label_3":{
+				"name":"",
+				"count":1
+			},
+			"label_4":{
+				"name":"",
+				"count":1
+			},
+			"label_5":{
+				"name":"",
+				"count":1
+			}
+		},
         "height": 50,
         "fill": {
           "src": "https://awoiaf.westeros.org/images/thumb/5/5b/House_Greyjoy.svg/500px-House_Greyjoy.svg.png"
@@ -44,16 +176,31 @@
       },
       {
         "id": "yl.traveller",
+		"labels":{
+			"label_1":{
+				"name":"",
+				"count":1
+			},
+			"label_2":{
+				"name":"",
+				"count":1
+			},
+			"label_3":{
+				"name":"",
+				"count":1
+			},
+			"label_4":{
+				"name":"",
+				"count":1
+			},
+			"label_5":{
+				"name":"",
+				"count":1
+			}
+		},
         "height": 50,
         "fill": {
           "src": "https://awoiaf.westeros.org/images/thumb/0/0c/House_Bolton.svg/500px-House_Bolton.svg.png"
-        }
-      },
-      {
-        "id": "Brotherhood without Banners",
-        "height": 50,
-        "fill": {
-          "src": "https://awoiaf.westeros.org/images/thumb/1/17/BWB_Sir_Heartsalot.jpg/700px-BWB_Sir_Heartsalot.jpg"
         }
       },
       {
@@ -68,13 +215,6 @@
         "height": 50,
         "fill": {
           "src": "https://awoiaf.westeros.org/images/thumb/d/da/House_Frey.svg/500px-House_Frey.svg.png"
-        }
-      },
-      {
-        "id": "Mallister",
-        "height": 50,
-        "fill": {
-          "src": "https://awoiaf.westeros.org/images/thumb/7/75/House_Mallister.svg/500px-House_Mallister.svg.png"
         }
       },
       {
@@ -96,20 +236,6 @@
         "height": 50,
         "fill": {
           "src": "https://awoiaf.westeros.org/images/thumb/3/31/House_Tyrell.svg/500px-House_Tyrell.svg.png"
-        }
-      },
-      {
-        "id": "Bracken",
-        "height": 50,
-        "fill": {
-          "src": "https://awoiaf.westeros.org/images/thumb/e/e5/House_Bracken.svg/500px-House_Bracken.svg.png"
-        }
-      },
-      {
-        "id": "Blackwood",
-        "height": 50,
-        "fill": {
-          "src": "https://awoiaf.westeros.org/images/thumb/e/e1/House_Blackwood.svg/500px-House_Blackwood.svg.png"
         }
       }
     ],
