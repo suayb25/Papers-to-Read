@@ -4,23 +4,31 @@
         "id": "seyahatguncem",
 		"labels":{
 			"label_1":{
-				"name":"sun",
-				"count":1
+				"name":"sky",
+				"count":5
 			},
 			"label_2":{
-				"name":"ocean",
-				"count":1
+				"name":"cloud",
+				"count":2
 			},
 			"label_3":{
-				"name":"snow",
-				"count":1
+				"name":"ecoregion",
+				"count":2
 			},
 			"label_4":{
-				"name":"sky",
-				"count":1
+				"name":"plant",
+				"count":2
 			},
 			"label_5":{
-				"name":"beach",
+				"name":"mountain",
+				"count":2
+			},
+			"label_6":{
+				"name":"water",
+				"count":1
+			},
+			"label_7":{
+				"name":"blue",
 				"count":1
 			}
 		},
@@ -30,26 +38,26 @@
         }
       },
       {
-        "id": "selmaozkan",
+        "id": "selmaozqan",
 		"labels":{
 			"label_1":{
-				"name":"",
-				"count":1
+				"name":"sky",
+				"count":4
 			},
 			"label_2":{
-				"name":"",
-				"count":1
+				"name":"smile",
+				"count":3
 			},
 			"label_3":{
-				"name":"",
-				"count":1
+				"name":"water",
+				"count":2
 			},
 			"label_4":{
-				"name":"",
-				"count":1
+				"name":"glasses",
+				"count":2
 			},
 			"label_5":{
-				"name":"",
+				"name":"photograph",
 				"count":1
 			}
 		},
@@ -62,23 +70,27 @@
         "id": "dilekozqan",
 		"labels":{
 			"label_1":{
-				"name":"",
-				"count":1
+				"name":"sky",
+				"count":5
 			},
 			"label_2":{
-				"name":"",
-				"count":1
+				"name":"temple",
+				"count":2
 			},
 			"label_3":{
-				"name":"",
-				"count":1
+				"name":"travel",
+				"count":2
 			},
 			"label_4":{
-				"name":"",
-				"count":1
+				"name":"plant",
+				"count":2
 			},
 			"label_5":{
-				"name":"",
+				"name":"flower",
+				"count":1
+			},
+			"label_6":{
+				"name":"cloud",
 				"count":1
 			}
 		},
@@ -91,23 +103,27 @@
         "id": "sizinnazar",
 		"labels":{
 			"label_1":{
-				"name":"",
-				"count":1
+				"name":"plant",
+				"count":3
 			},
 			"label_2":{
-				"name":"",
-				"count":1
+				"name":"people in nature",
+				"count":2
 			},
 			"label_3":{
-				"name":"",
-				"count":1
+				"name":"leaf",
+				"count":2
 			},
 			"label_4":{
-				"name":"",
-				"count":1
+				"name":"smile",
+				"count":2
 			},
 			"label_5":{
-				"name":"",
+				"name":"water",
+				"count":2
+			},
+			"label_6":{
+				"name":"clothing",
 				"count":1
 			}
 		},
@@ -120,23 +136,31 @@
         "id": "gunayontheway",
 		"labels":{
 			"label_1":{
-				"name":"",
-				"count":1
+				"name":"sky",
+				"count":2
 			},
 			"label_2":{
-				"name":"",
-				"count":1
+				"name":"azure",
+				"count":2
 			},
 			"label_3":{
-				"name":"",
-				"count":1
+				"name":"yellow",
+				"count":2
 			},
 			"label_4":{
-				"name":"",
-				"count":1
+				"name":"travel",
+				"count":2
 			},
 			"label_5":{
-				"name":"",
+				"name":"temple",
+				"count":2
+			},
+			"label_6":{
+				"name":"water",
+				"count":1
+			},
+			"label_7":{
+				"name":"blue",
 				"count":1
 			}
 		},
@@ -149,23 +173,28 @@
         "id": "mini_mutlu67",
 		"labels":{
 			"label_1":{
-				"name":"",
-				"count":1
+				"name":"sky",
+				"count":4
 			},
 			"label_2":{
-				"name":"",
-				"count":1
+				"name":"water",
+				"count":4
 			},
 			"label_3":{
-				"name":"",
-				"count":1
+				"name":"mountain",
+				"count":2
 			},
 			"label_4":{
-				"name":"",
-				"count":1
+				"name":"sunglasses",
+				"count":2
 			},
 			"label_5":{
-				"name":"",
+				"name":"cloud",
+				"count":2
+			}
+			,
+			"label_6":{
+				"name":"shoulder",
 				"count":1
 			}
 		},
@@ -175,27 +204,27 @@
         }
       },
       {
-        "id": "yl.traveller",
+        "id": "thsnays",
 		"labels":{
 			"label_1":{
-				"name":"",
-				"count":1
+				"name":"sky",
+				"count":8
 			},
 			"label_2":{
-				"name":"",
-				"count":1
+				"name":"cloud",
+				"count":4
 			},
 			"label_3":{
-				"name":"",
-				"count":1
+				"name":"water",
+				"count":3
 			},
 			"label_4":{
-				"name":"",
-				"count":1
+				"name":"glasses",
+				"count":3
 			},
 			"label_5":{
-				"name":"",
-				"count":1
+				"name":"smile",
+				"count":2
 			}
 		},
         "height": 50,
@@ -247,6 +276,6 @@
       { "from": "dilekozqan", "to": "sizinnazar" },
       { "from": "sizinnazar", "to": "gunayontheway" },
       { "from": "seyahatguncem", "to": "mini_mutlu67" },
-      { "from": "seyahatguncem", "to": "yl.traveller" }
+      { "from": "seyahatguncem", "to": "thsnays" }
     ]
   }
