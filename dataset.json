@@ -292,7 +292,7 @@
     ],
     "edges": [
       { "from": "seyahatguncem", "to": "selmaozqan" },
-	  { "from": "selmaozqan", "to": "seyahatguncem" },
+	  { "from": "gunayontheway", "to": "seyahatguncem" },
       { "from": "seyahatguncem", "to": "dilekozqan" },
       { "from": "seyahatguncem", "to": "sizinnazar" },
       { "from": "seyahatguncem", "to": "gunayontheway" },
