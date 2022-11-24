@@ -262,28 +262,28 @@
         }
       },
       {
-        "id": "Frey",
+        "id": "N1",
         "height": 50,
         "fill": {
           "src": "https://awoiaf.westeros.org/images/thumb/d/da/House_Frey.svg/500px-House_Frey.svg.png"
         }
       },
       {
-        "id": "Free folk",
+        "id": "N2",
         "height": 50,
         "fill": {
           "src": "https://awoiaf.westeros.org/images/9/94/Tomasz_Jedruszek_Wildling_Rabble.jpg"
         }
       },
       {
-        "id": "Night's Watch",
+        "id": "N3",
         "height": 50,
         "fill": {
           "src": "https://awoiaf.westeros.org/images/thumb/f/f3/Night%27s_Watch.svg/500px-Night%27s_Watch.svg.png"
         }
       },
       {
-        "id": "Tyrell",
+        "id": "N4",
         "height": 50,
         "fill": {
           "src": "https://awoiaf.westeros.org/images/thumb/3/31/House_Tyrell.svg/500px-House_Tyrell.svg.png"
