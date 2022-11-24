@@ -234,6 +234,28 @@
       },
       {
         "id": "ebrualpmanmarsan",
+		"labels":{
+			"label_1":{
+				"name":"Smile",
+				"count":2
+			},
+			"label_2":{
+				"name":"Snow",
+				"count":2
+			},
+			"label_3":{
+				"name":"Sky",
+				"count":2
+			},
+			"label_4":{
+				"name":"Happy",
+				"count":2
+			},
+			"label_5":{
+				"name":"Temple",
+				"count":1
+			}
+		},
         "height": 50,
         "fill": {
           "src": "https://awoiaf.westeros.org/images/thumb/2/24/Brave_Companions.svg/400px-Brave_Companions.svg.png"
